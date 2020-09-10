@@ -1,0 +1,21 @@
+------------------------------------
+--Laplace---------------------------
+------------------------------------
+Para ejecutar el código correctamente se deben de considerar las siguientes restricciones:
+
+- En el apartado Inserte f(t) se deberan ocupar solamente funciones de t, si se usa cualquier otra variable el programa
+  puede fallar. Para que muestre el resultado de la transformada,  oprima su botón correspondiente
+
+- En el apartado Inserte f(s) de igual manera solo se pueden insertar funciones de s, de cualquier otro modo fallará.
+  Para que muestre el resultado de la transformada,  oprima su botón correspondiente
+
+En caso de querer volver a la sección anterior el código, oprimir el botón atras en el menu de comandos.
+
+
+ __________________________________________________________________________________________________________________
+|														   |
+|nota: No presione el/los boton/botones mas de 2 veces antes de que cumpla con su función, y verifique haber       |
+| llenado todos los espacios que se indicaron anteriormente, en caso de haberlo hecho, vuelva a abrir el	   |
+| programa o si éste lo permite, presiones la opción de atrás.						  	   |           |
+|__________________________________________________________________________________________________________________|
+

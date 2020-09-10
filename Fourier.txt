@@ -1,0 +1,54 @@
+Ya que la serie de fourier es una aproximación a una señal periódica, se sabe que en algunos casos, se trabajan más
+de una función para la aproximación, con diferentes intervalos. Por lo tanto, ésta sección tiene como límite, aproximar
+una señal periódica, con un máximo de 3 funciónes
+
+---------------Sección de botones-----------------
+(Nota: Todos estos botones funcionan con la misma función aproximada con Fourier, y su respectivo periodo y armónicos)
+
+-Serie trigonométrica:
+	Lo que devolverá este botón, será la serie trigonométrica, seguida de "n" armónicos
+-Serie compleja:
+	Devolverá la serie compleja seguida de "n" armónicos
+-Espectro de fase:
+	Graficará el espectro de fase
+-Espectro de amplitud:
+	Graficará el espectro de aplitud
+-Coeficientes an y bn:
+	En la ventana de comandos, devolverá las funciones a0, an y bn, en términos de "n"
+-Coeficiente Cn:
+	En la ventana de comandos, devolverá la función Cn, en términos de "n"
+-Graficar:
+	Graficará la aproximación de la señal mediante la serie de fourier
+
+---------------Funciones 1, 2 y 3-----------------
+Para las 3 funciones, es exactamente lo mismo, el usuario tendrá que insertar la función en términos de "t", y 
+los intervalos correspondientes a su integral de la serie trigonométrica, el los espacios de límite inferior y superior
+
+(Nota: Se pueden usar las 3 funciones, 2 funciones, o sólo una función; da igual si es la funcion 1, 2 o 3; funciona
+por igual)
+
+---------------Pasos para ésta sección:---------------
+1. Inserte el periodo de la función y el número de armónicos
+2. Inserte las funciones que aproximan a la gráfica periodica, junto con sus intervalos, como si se calculara a mano
+3. A partir de ahora, puede apretar cualquier botón, dependiendo de la opción que desee.
+
+-----------------Ejemplos-----------------------
+1. Para graficar la onda de media onda rectificada:
+-Periodo: 2*pi
+-Armónicos: 10
+-Funcion1: sin(t)
+-Limite inferior: 0
+-Limite superior: pi
+-Apriete graficar.
+
+ __________________________________________________________________________________________________________________
+|														   |
+|nota: No presione el/los boton/botones mas de 2 veces antes de que cumpla con su función, y verifique haber       |
+| llenado todos los espacios que se indicaron anteriormente, en caso de haberlo hecho, vuelva a abrir el	   |
+| programa o si éste lo permite, presiones la opción de atrás.							   |
+|En dado caso de no manejar una PC rápida, manejar un máximo de 20 armónicos para funciones complejas		   |
+|__________________________________________________________________________________________________________________|
+
+
+
+	

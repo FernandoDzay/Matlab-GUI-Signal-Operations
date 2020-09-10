@@ -1,0 +1,36 @@
+--------------------------------------------------
+------Operaciones----------------------------------
+---------------------------------------------------
+Para ejecutar el código correctamente se deben de considerar las siguientes restricciones:
+-En los apartados señal 1 y 2 respectivamente, no se podrán introducir funciones que no esten exclusivamente en función de t. En caso de que no se cumpla esta condición el programa le notificará.
+
+-Los botones de integrador y diferenciador estan programados unicamente para la operación sobre la señal uno.
+
+Funciones
+El programa contiene 5 funciones:
+- Suma:
+Este botón sirve para sumar dos funciones de t, y generá la gráfica de la suma en el apartado de señal resultante.
+- Resta:
+Este botón sirve para restar dos funciones de t, y generá la gráfica de la resta en el apartado de señal resultante.
+
+- multiplicación:
+Este botón sirve para multiplicar dos funciones de t, y generá la gráfica de la multiplicación en el apartado de señal resultante.
+
+-Diferenciador
+Este botón sirve para obtener la derivada de la función insertada en el apartado de señal 1, las restricciones se mencionaron en la primera sección del documento.
+
+-Integrador	
+Este botón sirve para obtener la integral de la función insertada en el apartado de señal 1, las restricciones se mencionaron en la primera sección del documento.
+
+En caso de querer volver a la sección anterior el código, oprimir el botón atras en el menu de comandos.
+
+ __________________________________________________________________________________________________________________
+|														   |
+|nota: No presione el/los boton/botones mas de 2 veces antes de que cumpla con su función, y verifique haber       |
+| llenado todos los espacios que se indicaron anteriormente, en caso de haberlo hecho, vuelva a abrir el	   |
+| programa o si éste lo permite, presiones la opción de atrás.						  	   |           |
+|__________________________________________________________________________________________________________________|
+
+
+
+

@@ -1,0 +1,24 @@
+Esta sección tiene la peculiar característica, por cuestiones de apreciar mejor gráficamente la convolución de dos
+señales.
+-La gráfica superior, muestra la señal x(t) ingresada por el usuario
+-La gráfica de enmedio, muestra la señal  h(t) ingresada por el usuario, desplazada en el tiempo
+-La gráfica inferior, muestra la convolución en tiempo real de ambas señales 
+
+--------------------Pasos-------------------------
+1. Inserte la función x(t), en su sección
+2. Inserte los intervalos a los que pertenece x(t)
+3. Haga lo mismo para la función h(t)
+4. Presione el botón de graficar
+--------------------------------------------------
+
+Los límites de las funciones es sólo para dar una anchura a la función, ya que las gráficas están en movimiento,
+no hay un punto fijo en el eje del tiempo.
+
+
+ __________________________________________________________________________________________________________________
+|														   |
+|nota: No presione el/los boton/botones mas de 2 veces antes de que cumpla con su función, y verifique haber       |
+| llenado todos los espacios que se indicaron anteriormente, en caso de haberlo hecho, vuelva a abrir el	   |
+| programa o si éste lo permite, presiones la opción de atrás.						  	   |           |
+|__________________________________________________________________________________________________________________|
+

@@ -1,0 +1,26 @@
+Esta sección tiene 3 funciones:
+1. Graficar el espectro de amplitud en su respectiva gráfica
+2. Graficar el espectro de fase en su respectiva gráfica
+3. Calcular la transformada de fourier, dejándo la señal de entrada en términos de "w"
+
+La señal de entrada de la transformada de Fourier, no es una señal periódica, pero sí se pudiera ser una 
+función compuestase sabe que en algunos casos, se trabajan más de una función para la aproximación, con diferentes 
+intervalos. Por lo tanto, ésta sección tiene como límite, transformar una señal, con un máximo de 3 funciónes.
+
+(Nota: Todos estos botones funcionan con la misma función aproximada con Fourier, y su respectivo periodo y armónicos)
+Pasos:
+1. Dependiendo del número de las funciones necesarias para transformar la señal, insértelas en los espacios de "funcion"
+2. Inserte el intervalo al cuál pertenece la señal de entrada en los espacios límites inferior y superior de cada función
+3. Oprima el boton de calcular
+
+El programa graficará los espectros correspondientes, y también en la ventana de comandos, dejará la señal transformada
+de Fourier en términos de "w"
+
+ __________________________________________________________________________________________________________________
+|														   |
+|nota: No presione el/los boton/botones mas de 2 veces antes de que cumpla con su función, y verifique haber       |
+| llenado todos los espacios que se indicaron anteriormente, en caso de haberlo hecho, vuelva a abrir el	   |
+| programa o si éste lo permite, presiones la opción de atrás.						  	   |           |
+|__________________________________________________________________________________________________________________|
+
+
